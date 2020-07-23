@@ -1,0 +1,13 @@
+#pic1{
+    display: inline-block;
+    border: 5px red solid;
+    margin: 50px 50px 40px 40px;
+    padding: 5px 5px 4px 4px;
+}
+#table{
+    border: 2px solid black;
+}
+#heading{
+    font-size: larger;
+    font-weight: bold;
+}
